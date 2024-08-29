@@ -1,0 +1,28 @@
+Rides Schema stored like this 
+
+_id
+663f77088a9cbba8f1c7842c
+user_id
+663f76b78a9cbba8f1c7842a
+ride_date
+2024-05-11T13:47:52.421+00:00
+ride_src_lat
+"18.592058866652067"
+ride_dest_lat
+"18.594621416749266"
+ride_src_lng
+"73.7482271236972"
+ride_dest_lng
+"73.75908470578949"
+ride_fare
+5.896183396149965
+time
+"7:17:52 PM"
+ride_status
+"requested"
+__v
+0
+
+
+I want like Driver can accept the upto 4 rides at a time and also can 
+accept near by upto 500 meter requests 
